@@ -2,8 +2,22 @@
     Section 1
 ============= */
 #section-1{
-    .grid-content{
-        
-    }
+    div{
+        background-image: url('..img/section-1/water.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 600px;
 
+        @include md{
+            height: 700px;
+        }
+
+        @include lg{
+            height: 800px;
+        }
+
+        @include xl{
+            height: 960;
+        }
+    }
 }
