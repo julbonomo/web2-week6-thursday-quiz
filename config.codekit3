@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "32001",
 "files": {
+	"/deploy/css/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/css/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -78,7 +88,7 @@
 		"cB": 1,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/index.html",
 		"oF": 1
 		},
@@ -93,21 +103,25 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/deploy/section-1.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/deploy/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "/deploy/section-1.html",
-		"oF": 0
+		"oAP": "/deploy/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
-	"/deploy/section-2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/deploy/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "/deploy/section-2.html",
-		"oF": 0
+		"oAP": "/deploy/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/design/assets/2342441.jpg": {
 		"ft": 16384,
@@ -172,12 +186,12 @@
 		"oAP": "/design/content-quiz.sketch",
 		"oF": 0
 		},
-	"/dev/index.html": {
-		"cB": 1,
-		"ft": 8192,
+	"/dev/footer.kit": {
+		"cB": 0,
+		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dev/index.html",
+		"oAP": "/dev/footer.html",
 		"oF": 0
 		},
 	"/dev/index.kit": {
@@ -185,7 +199,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dev/index.html",
+		"oAP": "/deploy/index.html",
 		"oF": 3
 		},
 	"/dev/js/scripts.js": {
@@ -374,8 +388,8 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/dev/scss/styles-min.css",
-		"oF": 0,
+		"oAP": "/deploy/css/styles-min.css",
+		"oF": 3,
 		"oS": 3
 		},
 	"/dev/scss/styles.scss": {
@@ -386,8 +400,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/dev/scss/styles.css",
-		"oF": 0,
+		"oAP": "/deploy/css/styles.css",
+		"oF": 3,
 		"oS": 0,
 		"uL": 1
 		},
